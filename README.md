@@ -5,7 +5,7 @@ Bem-vindo ao meu portfólio online! Aqui você encontrará os projetos que desen
 🚀 **Tecnologias Usadas**:
 - **React** ⚛️ - Para o desenvolvimento do front-end.
 - **Tailwind CSS** 🎨 - Para estilização responsiva e moderna.
-- **GitHub Pages/Netlify** 🌐 - Para hospedagem do portfólio.
+- **GitHub Pages 🌐 - Para hospedagem do portfólio.
 - **React Router** 🛣️ - Para navegação entre as páginas do portfólio.
 
 ---
